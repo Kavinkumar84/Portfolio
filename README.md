@@ -50,7 +50,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] Summary of work experience.
 - [x] Career objectives or goals.
 
-![Resume Page](screenshots/resume.png)
+![Resume Page](website_images/project.png)
 
 ### Contact
 
@@ -58,11 +58,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] Social media links (LinkedIn, GitHub, etc.).
 - [x] Location or availability details.
 
-![Contact Page](screenshots/contact.png)
-
-## Theme
-
-The portfolio is available in different themes for user preference. Each theme provides a unique visual style while maintaining consistency in content and functionality.
+![Contact Page](website_images/contact.png)
 
 ## Technologies Used
 

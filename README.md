@@ -18,7 +18,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] Featured projects or recent works.
 - [x] Call-to-action buttons or links.
 
-![Home Page](screenshots/home.png)
+![Home Page](website_images/home.png)
 
 ### About Page
 
@@ -26,7 +26,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] My interests and hobbies.
 - [x] Personal achievements or experiences.
 
-![About Page](screenshots/about.png)
+![About Page](website_images/about.png)
 
 ### Education
 
@@ -34,7 +34,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] Courses or certifications completed.
 - [x] Academic achievements.
 
-![Education Page](screenshots/education.png)
+![Education Page](website_images/education.png)
 
 ### Skills
 
@@ -42,7 +42,7 @@ This portfolio showcases my skills and experience in web development. It consist
 - [x] Proficiency levels (e.g., beginner, intermediate, advanced).
 - [x] Skills relevant to the job market.
 
-![Skills Page](screenshots/skills.png)
+![Skills Page](website_images/skill.png)
 
 ### Resume
 
@@ -71,4 +71,4 @@ This portfolio showcases my skills and experience in web development. It consist
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Kavinkumar84/Portfolio.git
